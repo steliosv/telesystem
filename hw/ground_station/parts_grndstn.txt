@@ -1,0 +1,38 @@
+Partlist
+
+Exported from receiver.sch at 26/11/2009 12:34:22 μμ
+
+EAGLE Version 5.6.0 Copyright (c) 1988-2009 CadSoft
+
+Part     Value          Device          Package      Library         Sheet
+
+C1       10u            CPOL-EUB45181A  B45181A      rcl             1
+C2       10u            CPOL-EUB45181A  B45181A      rcl             1
+C3       10u            CPOL-EUB45181A  B45181A      rcl             1
+C4       10u            CPOL-EUB45181A  B45181A      rcl             1
+C5       22p            C-EU050-025X075 C050-025X075 rcl             1
+C6       22p            C-EU050-025X075 C050-025X075 rcl             1
+C7       100n           C-EU050-025X075 C050-025X075 rcl             1
+C8       100n           C-EU050-025X075 C050-025X075 rcl             1
+C9       10u            CPOL-EUB45181A  B45181A      rcl             1
+C10      10u            CPOL-EUB45181A  B45181A      rcl             1
+C11      100n           C-EU050-025X075 C050-025X075 rcl             1
+C12      10u            CPOL-EUB45181A  B45181A      rcl             1
+C13      10u            CPOL-EUB45181A  B45181A      rcl             1
+D1       1N4148DO35-10  1N4148DO35-10   DO35-10      diode           1
+D2       1N4148DO35-10  1N4148DO35-10   DO35-10      diode           1
+IC1      7805TV         7805TV          TO220V       linear          1
+IC2      DSPIC30F4013/P DSPIC30F4013/P  DIL40        microchip-dspic 1
+IC3      MAX232         MAX232          DIL16        maxim           1
+ICSP                    FE06-1          FE06         con-lsta        1
+LED2                    LED3MM          LED3MM       led             1
+LED3                    LED3MM          LED3MM       led             1
+LM3940   LM3940         LM3940          TO220(V)     lm2937          1
+M1       XBEE-PRO       XBEE-PRO        XBEE-PRO     xbee_r1         1
+POWER                   M03             03P          con-amp-quick   1
+Q1       16MHz          CRYSTALHC18U-V  HC18U-V      crystal         1
+R7       330            R-EU_0207/10    0207/10      rcl             1
+R8       330            R-EU_0207/10    0207/10      rcl             1
+R9       10k            R-EU_0207/10    0207/10      rcl             1
+S1                      10-XX           B3F-10XX     switch-omron    1
+X1                      F09HP           F09HP        con-subd        1
