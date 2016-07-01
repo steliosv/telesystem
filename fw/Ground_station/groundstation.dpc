@@ -1,0 +1,33 @@
+[DeviceName]
+Value=P30F4013
+[DeviceClock]
+Value=7.5
+[MainUnit]
+Value=
+[DeviceFlags]
+Count=7
+Value0=_CSW_FSCM_ON = $3FFF
+Value1=_XT_PLL16 = $FFE7
+Value2=_WDT_OFF = $7FFF
+Value3=_MCLR_EN = $FFFF
+Value4=_PBOR_OFF = $FF7F
+Value5=_CODE_PROT_OFF = $FFFF
+Value6=_BKBUG_OFF = $FFFF
+[BuildType]
+bType=0
+[ProjectFiles]
+Count=1
+Value0=groundstation.c
+[ObjLibFiles]
+Count=0
+[EEPROMinfo]
+isused=0
+[MemoryUsage]
+Val=50
+[SearchPath]
+Count=3
+Value0=C:\Program Files (x86)\Mikroelektronika\mikroC dsPIC\Defs\
+Value1=C:\Program Files (x86)\Mikroelektronika\mikroC dsPIC\Uses\
+Value2=C:\Users\stelios\Desktop\Ground_station\
+[IncludePath]
+Count=0

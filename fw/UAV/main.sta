@@ -1,0 +1,71 @@
+
+ROM used: 2120 (6%)
+          2120 (6%) including unused fragments
+
+          1 Average locations per line
+          3 Average locations per statement
+
+RAM used: 314 (15%) at main() level
+          374 (18%) worst case
+
+Stack used: 4 worst case (out of 31 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  395   165  26  main.c
+   27     0   0  main.h
+  429     0   0  ..\..\..\..\Program Files (x86)\PICC\devices\30F4013.h
+   37     0   0  ..\..\..\..\Program Files (x86)\PICC\drivers\stdio.h
+  409     0   0  ..\..\..\..\Program Files (x86)\PICC\drivers\string.h
+   28     0   0  ..\..\..\..\Program Files (x86)\PICC\drivers\stddef.h
+   28     0   0  ..\..\..\..\Program Files (x86)\PICC\drivers\ctype.h
+ 1273   478  74  ..\..\..\..\Program Files (x86)\PICC\drivers\stdlib.h
+----- -----
+ 2626   643 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     20   0   2             @delay_ms1
+0    138   3   8             @DIVS3232A
+0     66   2   8             @MULS3232
+0     14   0   0             @GETCH_BIU_2
+0     78   2   1             @I2C_READ_1
+0     82   2   1             @I2C_WRITE_1
+0    122   3   6   478  2.4  analfunc
+0     24   1   1    72  2.4  xput
+0     30   1   5    52  1.6  xput16
+0     48   1   7    72  2.7  i2c_begin2
+0     12   0   2    35  1.4  i2c_begin
+0     14   0   2    35  1.4  i2c_request
+0     26   1   0    12  0.8  i2c_end
+0     26   1   0    61  1.2  gyro_On
+0     86   2   8   256  4.6  gyro_GetRawData
+0     68   2  13   234  7.1  gyro_DecodeValue
+0     84   2   8             @DIV3232A
+ Inline       20   442  3.8  gyro_GetData
+0    370   9  21   779  6.1  set_pwm
+0     18   0   0   108  1.7  set_pwm_sync
+0     70   2   3   147  1.4  sendframe
+0     98   2  10   270  2.8  getframe
+0    370   9  10  3832 10.8  MAIN
+
+Program metrics:
+    Functions               16
+    Statements              643
+    Comments                772
+    Volume (V)              10046
+    Difficilty (D)          53.2
+    Effort to implement (E) 534373
+    Time to implement (T)   8 hours, 15 minutes
+    Est Delivered Bugs (B)  2
+    Cyclomatic Complexity   29
+    Maintainability (MI)    29
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00002     4  0  
+00004-000FE   252  0  
+00100-07FFE  1864  30648  
+
+
+

@@ -1,0 +1,27 @@
+[PROJECT]
+Target=C:\Users\stelios\Desktop\Ground_station\main.hex
+Development_Mode=
+Processor_Text=DSPIC30F4013
+ToolSuite=CCS
+Processor=0x000E
+[C:\Users\stelios\Desktop\Ground_station\main]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=C:\Users\stelios\Desktop\Ground_station\main.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=C:\Users\stelios\Desktop\Ground_station\main
+[Opened Files]
+1=..\Ground_station\main.c
+2=main.h
+3=
+4=..\..\..\..\Program Files (x86)\PICC\devices\30F4013.h
+5=

@@ -1,0 +1,31 @@
+[PROJECT]
+Target=C:\Users\stelios\Desktop\UAV\main.hex
+Development_Mode=
+Processor_Text=DSPIC30F4013
+ToolSuite=CCS
+Processor=0x000E
+[C:\Users\stelios\Desktop\UAV\main]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=C:\Users\stelios\Desktop\UAV\main.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=main
+2=..\Ground_station\gyro.c
+[Opened Files]
+1=main.c
+2=main.h
+3=
+4=..\..\..\..\Program Files (x86)\PICC\drivers\string.h
+5=
+[documentation]
+template=C:\Users\stelios\Desktop\UAV\template_sdd.rtf
+output=main.rtf

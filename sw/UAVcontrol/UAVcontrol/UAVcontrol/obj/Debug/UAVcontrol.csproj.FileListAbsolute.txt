@@ -1,0 +1,28 @@
+C:\Users\stelios\AppData\Local\Temporary Projects\UAVcontrol\bin\Debug\UAVcontrol.exe
+C:\Users\stelios\AppData\Local\Temporary Projects\UAVcontrol\bin\Debug\UAVcontrol.pdb
+C:\Users\stelios\AppData\Local\Temporary Projects\UAVcontrol\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stelios\AppData\Local\Temporary Projects\UAVcontrol\obj\Debug\UAVcontrol.Form1.resources
+C:\Users\stelios\AppData\Local\Temporary Projects\UAVcontrol\obj\Debug\UAVcontrol.Properties.Resources.resources
+C:\Users\stelios\AppData\Local\Temporary Projects\UAVcontrol\obj\Debug\UAVcontrol.csproj.GenerateResource.Cache
+C:\Users\stelios\AppData\Local\Temporary Projects\UAVcontrol\obj\Debug\UAVcontrol.exe
+C:\Users\stelios\AppData\Local\Temporary Projects\UAVcontrol\obj\Debug\UAVcontrol.pdb
+C:\Users\stelios\Desktop\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.exe
+C:\Users\stelios\Desktop\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.pdb
+C:\Users\stelios\Desktop\UAV controller\UAVcontrol\UAVcontrol\bin\Debug\UAVcontrol.exe
+C:\Users\stelios\Desktop\UAV controller\UAVcontrol\UAVcontrol\bin\Debug\UAVcontrol.pdb
+C:\Users\stelios\Desktop\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stelios\Desktop\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.Form1.resources
+C:\Users\stelios\Desktop\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.Properties.Resources.resources
+C:\Users\stelios\Desktop\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.csproj.GenerateResource.Cache
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.exe
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.pdb
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.Form1.resources
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.Properties.Resources.resources
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.csproj.GenerateResource.Cache
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\bin\UAVcontrol.exe
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\bin\UAVcontrol.pdb
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.SpeedIndicator.resources
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.heading.resources
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.horizon.resources
+C:\Users\stelios\Desktop\UAV controller\UAV controller\UAVcontrol\UAVcontrol\obj\Debug\UAVcontrol.tracking.resources
